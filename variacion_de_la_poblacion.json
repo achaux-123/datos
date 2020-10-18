@@ -1,0 +1,174 @@
+{
+    "Id": "a2982750-f77b-41be-9446-c75a7636b648",
+    "Url": "www.epdata.es/variacion-poblacion-cada-comunidad-autonoma-espana-ultimo-ano/a2982750-f77b-41be-9446-c75a7636b648",
+    "Titulo": "Variación de la población en cada comunidad autónoma de España el último año",
+    "Subtitulo": "",
+    "Datos": {
+        "Metricas": [
+            {
+                "Id": 0,
+                "Nombre": "Cifras de población a nivel semestral - Variación absoluta de Número de personas con respecto al mismo semestre del año anterior para total como sexo, total como grupo quinquenal de edad, Total como país de nacionalidad y Andalucía, Aragón, Asturias, Canarias, Cantabria, Castilla León, Castilla-La Mancha, Cataluña, Ceuta, Comunidad Valenciana, Extremadura, Galicia, Islas Baleares, La Rioja, Madrid, Melilla, Murcia, Navarra, País Vasco como comunidad autónoma de residencia",
+                "SonDatosNumericos": true,
+                "Fuente": "INE",
+                "Clasificacion": null,
+                "Unidad": "Número de personas",
+                "Escala": "Unidades",
+                "EscalaFactorPotencia10": 0,
+                "Datos": [
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Andalucía",
+                        "Valor": 49314,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Aragón",
+                        "Valor": 9859,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Asturias",
+                        "Valor": -3430,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Canarias",
+                        "Valor": 30408,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Cantabria",
+                        "Valor": 716,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Castilla y León",
+                        "Valor": -6503,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Castilla-La Mancha",
+                        "Valor": 10507,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Cataluña",
+                        "Valor": 85639,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Ceuta",
+                        "Valor": -797,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Comunidad Valenciana",
+                        "Valor": 53681,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Extremadura",
+                        "Valor": -3656,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Galicia",
+                        "Valor": 1803,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Islas Baleares",
+                        "Valor": 22530,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "La Rioja",
+                        "Valor": 2355,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Madrid",
+                        "Valor": 105777,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Melilla",
+                        "Valor": -193,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Murcia",
+                        "Valor": 16944,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "Navarra",
+                        "Valor": 6541,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    },
+                    {
+                        "Agno": 2020,
+                        "Periodo": "Semestre 1",
+                        "Parametro": "País Vasco",
+                        "Valor": 11430,
+                        "Estado": "Provisional",
+                        "Notas": null
+                    }
+                ]
+            }
+        ]
+    }
+}
